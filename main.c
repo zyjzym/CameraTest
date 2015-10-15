@@ -17,7 +17,7 @@ main(int argc, char *argv[])
 	  printf("zhouyanjun:周延军\n"); 
 	  printf("zhouyanjun:周延军\n"); 
 	 
-		//printf("goodbye my friend\n");
+	  printf("goodbye my friend\n");
 	}
 	return 0;
 }
